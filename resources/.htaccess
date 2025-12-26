@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Band members only"
+AuthUserFile /users/warriorsband/www/resources/.htpasswd
+Require valid-user
